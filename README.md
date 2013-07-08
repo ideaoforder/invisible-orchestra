@@ -1,5 +1,7 @@
 invisible-orchestra
 ===================
+http://invisibleorchestra.nestsounds.com/
+http://soundcloud.com/invisible_orchestra
 
 
 Project Description
